@@ -1,6 +1,10 @@
+// ADD
+
 function add(x, y) {
     return(x + y)
 }
+
+// MULTIPLY
 
 console.log(add(2, 4))
 
@@ -16,6 +20,8 @@ function multiply(x, y) {
 }
 
 console.log(multiply(6, 4))
+
+// EXPONENTS
 
 function power(x,n) {
     
@@ -33,6 +39,8 @@ function power(x,n) {
 
 console.log(power(3, 4))
 
+// FACTORIAL
+
 function factorial(n) {
     
     let x = n
@@ -48,6 +56,8 @@ function factorial(n) {
 }
 
 console.log(factorial(5))
+
+// FIBONACCI
 
 function fibonacci(n) {
 
